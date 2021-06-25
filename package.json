@@ -1,0 +1,24 @@
+{
+    "name": "gd-api",
+    "version": "1.0.0",
+    "description": "Una libreria para la Api de Geometry Dash",
+    "main": "index.js",
+    "scripts": {
+        "test": "run index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yohan205/GD-Api.git"
+    },
+    "keywords": [
+        "api",
+        "gd",
+        "node"
+    ],
+    "author": "YohanColla",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yohan205/GD-Api/issues"
+    },
+    "homepage": "https://github.com/Yohan205/GD-Api#readme"
+}
