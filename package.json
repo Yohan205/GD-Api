@@ -1,10 +1,10 @@
 {
     "name": "gd-api",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "Una libreria para la Api de Geometry Dash",
     "main": "index.js",
     "scripts": {
-        "test": "run index.js"
+        "test": "node index.js"
     },
     "repository": {
         "type": "git",
@@ -20,5 +20,8 @@
     "bugs": {
         "url": "https://github.com/Yohan205/GD-Api/issues"
     },
-    "homepage": "https://github.com/Yohan205/GD-Api#readme"
+    "homepage": "https://github.com/Yohan205/GD-Api#readme",
+    "dependencies": {
+        "node-superfetch": "^0.2.3"
+    }
 }
