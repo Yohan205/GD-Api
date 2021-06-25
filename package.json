@@ -1,7 +1,7 @@
 {
-    "name": "gd-api",
+    "name": "@yohancolla/geometrydash-api",
     "version": "0.0.1",
-    "description": "Una libreria para la Api de Geometry Dash",
+    "description": "Una libreria para que utilices la Api de Geometry Dash",
     "main": "index.js",
     "scripts": {
         "test": "node index.js"
