@@ -20,8 +20,5 @@
     "bugs": {
         "url": "https://github.com/Yohan205/GD-Api/issues"
     },
-    "homepage": "https://github.com/Yohan205/GD-Api#readme",
-    "dependencies": {
-        "node-superfetch": "^0.2.3"
-    }
+    "homepage": "https://github.com/Yohan205/GD-Api#readme"
 }
