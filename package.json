@@ -1,5 +1,5 @@
 {
-    "name": "@yohancolla/geometrydash-api",
+    "name": "geometrydash-lib",
     "version": "0.0.1",
     "description": "Una libreria para que utilices la Api de Geometry Dash",
     "main": "index.js",
